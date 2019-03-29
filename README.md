@@ -1,4 +1,6 @@
 # project
+[![Build Status](https://travis-ci.org/HristoP96/Training-.svg?branch=master)](https://travis-ci.org/HristoP96/Training-)
+
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
 
