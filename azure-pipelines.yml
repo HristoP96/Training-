@@ -21,5 +21,4 @@ steps:
     npm run lint
     npm run test:prod
     nom run build:app-shell
-    npm run build
   displayName: 'npm install, lint, test and build'
